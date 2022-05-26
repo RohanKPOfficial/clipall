@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/clipall/BuildConfig.java
+ com.example.clipall.BuildConfig
+com/example/clipall/MainActivity.java
+ com.example.clipall.MainActivity

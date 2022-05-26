@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\rohan\StudioProjects\clipall\windows\flutter\ephemeral\.plugin_symlinks\desktop_webview_auth\windows\desktop_webview_auth_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\rohan\StudioProjects\clipall\windows\flutter\ephemeral\.plugin_symlinks\desktop_webview_auth\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F90C1257-A6E8-35BD-9CC1-668A66258871}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+C:/Users/rohan/StudioProjects/clipall/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/runner/CMakeFiles/clipall.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/plugins/desktop_webview_auth/CMakeFiles/DEPENDENCIES_DOWNLOAD.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/plugins/desktop_webview_auth/CMakeFiles/desktop_webview_auth_plugin.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/plugins/desktop_webview_auth/CMakeFiles/INSTALL.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/plugins/desktop_webview_auth/CMakeFiles/ALL_BUILD.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/plugins/url_launcher_windows/CMakeFiles/INSTALL.dir
+C:/Users/rohan/StudioProjects/clipall/build/windows/plugins/url_launcher_windows/CMakeFiles/ALL_BUILD.dir

@@ -1,0 +1,10 @@
+^C:\USERS\ROHAN\STUDIOPROJECTS\CLIPALL\BUILD\WINDOWS\CMAKEFILES\9ECF2BAA07C199D3E2F290A8D2CD39D9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/rohan/StudioProjects/clipall/windows -BC:/Users/rohan/StudioProjects/clipall/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/rohan/StudioProjects/clipall/build/windows/clipall.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
